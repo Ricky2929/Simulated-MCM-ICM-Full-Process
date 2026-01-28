@@ -1,0 +1,12 @@
+Cleaning_Step,Status,Records_Count
+Step 1: Data Loading,✓,1435
+Step 2: Exclude 1906,✓,1435
+Step 3: NOC Standardization,✓,1435
+Step 4: Historical Countries,✓,1435
+Step 5: Team Deduplication,✓,1435
+Step 6: Programs Processing,✓,1435
+Step 7: Host Features,✓,1435
+Step 8: Time Features,✓,1435
+Step 9: Data Merging,✓,1435
+Step 10: Market Share,✓,1435
+Step 11: Save Data,✓,1435

@@ -1,0 +1,8 @@
+Category,Finding
+Data Size,"Athletes dataset: 252,565 records | Medal Counts: 1,435 records"
+Time Range,Athletes: 1896-2024 | Medals: 1896-2024
+Countries,Unique NOCs in athletes: 234 | In medal counts: 210
+Sports,"Unique sports: 76 | Unique events: 1,041"
+Medal Distribution,"No medal: 213,747 | Gold: 13,002 | Silver: 12,746 | Bronze: 13,070"
+2024 Olympics,Countries won medals: 91 | Total medals: 1039
+Missing Values,Total missing values across all datasets: 97

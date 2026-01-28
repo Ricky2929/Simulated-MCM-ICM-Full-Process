@@ -1,0 +1,444 @@
+NOC,In_Athletes,In_Medals
+AFG,True,False
+AHO,True,False
+AIN,True,False
+ALB,True,False
+ALG,True,False
+AND,True,False
+ANG,True,False
+ANT,True,False
+ANZ,True,False
+ARG,True,False
+ARM,True,False
+ARU,True,False
+ASA,True,False
+AUS,True,False
+AUT,True,False
+AZE,True,False
+Afghanistan,False,True
+Albania,False,True
+Algeria,False,True
+Argentina,False,True
+Argentina ,False,True
+Armenia,False,True
+Australasia,False,True
+Australia,False,True
+Australia ,False,True
+Austria,False,True
+Austria ,False,True
+Azerbaijan,False,True
+BAH,True,False
+BAN,True,False
+BAR,True,False
+BDI,True,False
+BEL,True,False
+BEN,True,False
+BER,True,False
+BHU,True,False
+BIH,True,False
+BIZ,True,False
+BLR,True,False
+BOH,True,False
+BOL,True,False
+BOT,True,False
+BRA,True,False
+BRN,True,False
+BRU,True,False
+BUL,True,False
+BUR,True,False
+Bahamas,False,True
+Bahrain,False,True
+Barbados,False,True
+Belarus,False,True
+Belgium,False,True
+Belgium ,False,True
+Bermuda,False,True
+Bohemia,False,True
+Botswana,False,True
+Brazil,False,True
+Brazil ,False,True
+British West Indies ,False,True
+Bulgaria,False,True
+Bulgaria ,False,True
+Burkina Faso,False,True
+Burundi,False,True
+CAF,True,False
+CAM,True,False
+CAN,True,False
+CAY,True,False
+CGO,True,False
+CHA,True,False
+CHI,True,False
+CHN,True,False
+CIV,True,False
+CMR,True,False
+COD,True,False
+COK,True,False
+COL,True,False
+COM,True,False
+CPV,True,False
+CRC,True,False
+CRO,True,False
+CRT,True,False
+CUB,True,False
+CYP,True,False
+CZE,True,False
+Cabo Verde,False,True
+Cameroon,False,True
+Canada,False,True
+Canada ,False,True
+Ceylon,False,True
+Chile,False,True
+China,False,True
+Chinese Taipei,False,True
+Colombia,False,True
+Costa Rica,False,True
+Croatia,False,True
+Cuba,False,True
+Cyprus,False,True
+Czech Republic,False,True
+Czechoslovakia,False,True
+Czechoslovakia ,False,True
+DEN,True,False
+DJI,True,False
+DMA,True,False
+DOM,True,False
+Denmark,False,True
+Denmark ,False,True
+Djibouti,False,True
+Dominica,False,True
+Dominican Republic,False,True
+ECU,True,False
+EGY,True,False
+EOR,True,False
+ERI,True,False
+ESA,True,False
+ESP,True,False
+EST,True,False
+ETH,True,False
+EUN,True,False
+East Germany,False,True
+Ecuador,False,True
+Egypt,False,True
+Egypt ,False,True
+Eritrea,False,True
+Estonia,False,True
+Ethiopia,False,True
+Ethiopia ,False,True
+FIJ,True,False
+FIN,True,False
+FR Yugoslavia,False,True
+FRA,True,False
+FRG,True,False
+FSM,True,False
+Fiji,False,True
+Finland,False,True
+Finland ,False,True
+Formosa ,False,True
+France,False,True
+France ,False,True
+GAB,True,False
+GAM,True,False
+GBR,True,False
+GBS,True,False
+GDR,True,False
+GEO,True,False
+GEQ,True,False
+GER,True,False
+GHA,True,False
+GRE,True,False
+GRN,True,False
+GUA,True,False
+GUI,True,False
+GUM,True,False
+GUY,True,False
+Gabon,False,True
+Georgia,False,True
+Germany,False,True
+Germany ,False,True
+Ghana,False,True
+Ghana ,False,True
+Great Britain,False,True
+Great Britain ,False,True
+Greece,False,True
+Greece ,False,True
+Grenada,False,True
+Guatemala,False,True
+Guyana,False,True
+HAI,True,False
+HKG,True,False
+HON,True,False
+HUN,True,False
+Haiti,False,True
+Hong Kong,False,True
+Hungary,False,True
+Hungary ,False,True
+INA,True,False
+IND,True,False
+IOA,True,False
+IRI,True,False
+IRL,True,False
+IRQ,True,False
+ISL,True,False
+ISR,True,False
+ISV,True,False
+ITA,True,False
+IVB,True,False
+Iceland,False,True
+Independent Olympic Athletes,False,True
+Independent Olympic Participants,False,True
+India,False,True
+India ,False,True
+Indonesia,False,True
+Iran,False,True
+Iran ,False,True
+Iraq ,False,True
+Ireland,False,True
+Ireland ,False,True
+Israel,False,True
+Italy,False,True
+Italy ,False,True
+Ivory Coast,False,True
+JAM,True,False
+JOR,True,False
+JPN,True,False
+Jamaica,False,True
+Japan,False,True
+Japan ,False,True
+Jordan,False,True
+KAZ,True,False
+KEN,True,False
+KGZ,True,False
+KIR,True,False
+KOR,True,False
+KOS,True,False
+KSA,True,False
+KUW,True,False
+Kazakhstan,False,True
+Kenya,False,True
+Kosovo,False,True
+Kuwait,False,True
+Kyrgyzstan,False,True
+LAO,True,False
+LAT,True,False
+LBA,True,False
+LBN,True,False
+LBR,True,False
+LCA,True,False
+LES,True,False
+LIB,True,False
+LIE,True,False
+LTU,True,False
+LUX,True,False
+Latvia,False,True
+Latvia ,False,True
+Lebanon,False,True
+Lithuania,False,True
+Luxembourg,False,True
+MAD,True,False
+MAL,True,False
+MAR,True,False
+MAS,True,False
+MAW,True,False
+MDA,True,False
+MDV,True,False
+MEX,True,False
+MGL,True,False
+MHL,True,False
+MKD,True,False
+MLI,True,False
+MLT,True,False
+MNE,True,False
+MON,True,False
+MOZ,True,False
+MRI,True,False
+MTN,True,False
+MYA,True,False
+Macedonia,False,True
+Malaysia,False,True
+Mauritius,False,True
+Mexico,False,True
+Mexico ,False,True
+Mixed team,False,True
+Moldova,False,True
+Mongolia,False,True
+Montenegro,False,True
+Morocco,False,True
+Morocco ,False,True
+Mozambique,False,True
+NAM,True,False
+NBO,True,False
+NCA,True,False
+NED,True,False
+NEP,True,False
+NFL,True,False
+NGR,True,False
+NIG,True,False
+NOR,True,False
+NRU,True,False
+NZL,True,False
+Namibia,False,True
+Netherlands,False,True
+Netherlands Antilles,False,True
+Netherlands ,False,True
+New Zealand,False,True
+New Zealand ,False,True
+Niger,False,True
+Nigeria,False,True
+North Korea,False,True
+North Macedonia,False,True
+Norway,False,True
+Norway ,False,True
+OMA,True,False
+PAK,True,False
+PAN,True,False
+PAR,True,False
+PER,True,False
+PHI,True,False
+PLE,True,False
+PLW,True,False
+PNG,True,False
+POL,True,False
+POR,True,False
+PRK,True,False
+PUR,True,False
+Pakistan,False,True
+Pakistan ,False,True
+Panama,False,True
+Paraguay,False,True
+Peru,False,True
+Philippines,False,True
+Philippines ,False,True
+Poland,False,True
+Poland ,False,True
+Portugal,False,True
+Portugal ,False,True
+Puerto Rico,False,True
+QAT,True,False
+Qatar,False,True
+RHO,True,False
+ROC,True,True
+ROT,True,False
+ROU,True,False
+RSA,True,False
+RUS,True,False
+RWA,True,False
+Refugee Olympic Team,False,True
+Romania,False,True
+Romania ,False,True
+Russia,False,True
+Russian Empire,False,True
+SAA,True,False
+SAM,True,False
+SCG,True,False
+SEN,True,False
+SEY,True,False
+SGP,True,False
+SKN,True,False
+SLE,True,False
+SLO,True,False
+SMR,True,False
+SOL,True,False
+SOM,True,False
+SRB,True,False
+SRI,True,False
+SSD,True,False
+STP,True,False
+SUD,True,False
+SUI,True,False
+SUR,True,False
+SVK,True,False
+SWE,True,False
+SWZ,True,False
+SYR,True,False
+Saint Lucia,False,True
+Samoa,False,True
+San Marino,False,True
+Saudi Arabia,False,True
+Senegal,False,True
+Serbia,False,True
+Serbia and Montenegro,False,True
+Singapore,False,True
+Singapore ,False,True
+Slovakia,False,True
+Slovenia,False,True
+South Africa,False,True
+South Africa ,False,True
+South Korea,False,True
+Soviet Union,False,True
+Soviet Union ,False,True
+Spain,False,True
+Spain ,False,True
+Sri Lanka,False,True
+Sudan,False,True
+Suriname,False,True
+Sweden,False,True
+Sweden ,False,True
+Switzerland,False,True
+Switzerland ,False,True
+Syria,False,True
+TAN,True,False
+TCH,True,False
+TGA,True,False
+THA,True,False
+TJK,True,False
+TKM,True,False
+TLS,True,False
+TOG,True,False
+TPE,True,False
+TTO,True,False
+TUN,True,False
+TUR,True,False
+TUV,True,False
+Taiwan,False,True
+Tajikistan,False,True
+Tanzania,False,True
+Thailand,False,True
+Togo,False,True
+Tonga,False,True
+Trinidad and Tobago,False,True
+Tunisia,False,True
+Turkey,False,True
+Turkey ,False,True
+Turkmenistan,False,True
+UAE,True,False
+UAR,True,False
+UGA,True,False
+UKR,True,False
+UNK,True,False
+URS,True,False
+URU,True,False
+USA,True,False
+UZB,True,False
+Uganda,False,True
+Ukraine,False,True
+Unified Team,False,True
+United Arab Emirates,False,True
+United States,False,True
+United States ,False,True
+United Team of Germany,False,True
+United Team of Germany ,False,True
+Uruguay,False,True
+Uruguay ,False,True
+Uzbekistan,False,True
+VAN,True,False
+VEN,True,False
+VIE,True,False
+VIN,True,False
+VNM,True,False
+Venezuela,False,True
+Venezuela ,False,True
+Vietnam,False,True
+Virgin Islands,False,True
+WIF,True,False
+West Germany,False,True
+YAR,True,False
+YEM,True,False
+YMD,True,False
+YUG,True,False
+Yugoslavia,False,True
+Yugoslavia ,False,True
+ZAM,True,False
+ZIM,True,False
+Zambia,False,True
+Zimbabwe,False,True

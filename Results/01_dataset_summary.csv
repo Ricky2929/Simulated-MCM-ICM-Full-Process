@@ -1,0 +1,6 @@
+Dataset,Rows,Columns,Memory_MB
+Athletes,252565,9,130.99
+Medal Counts,1435,7,0.16
+Hosts,35,2,0.0
+Programs,74,35,0.09
+Dictionary,50,3,0.01

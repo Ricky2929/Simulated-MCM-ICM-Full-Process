@@ -1,0 +1,1436 @@
+Rank,NOC,Gold,Silver,Bronze,Total,Year,NOC_original
+1,USA,11,7,2,20,1896,United States
+2,GRE,10,18,19,47,1896,Greece
+3,GER,6,5,2,13,1896,Germany
+4,FRA,5,4,2,11,1896,France
+5,GBR,2,3,2,7,1896,Great Britain
+6,HUN,2,1,3,6,1896,Hungary
+7,AUT,2,1,2,5,1896,Austria
+8,AUS,2,0,0,2,1896,Australia
+9,DEN,1,2,3,6,1896,Denmark
+10,SUI,1,2,0,3,1896,Switzerland
+11,ZZX,1,0,1,2,1896,Mixed team
+1,FRA,27,39,37,103,1900,France
+2,USA,19,14,15,48,1900,United States
+3,GBR,15,7,9,31,1900,Great Britain
+4,ZZX,8,5,6,19,1900,Mixed team
+5,BEL,6,7,4,17,1900,Belgium
+6,SUI,6,2,1,9,1900,Switzerland
+7,GER,4,3,2,9,1900,Germany
+8,ITA,3,2,0,5,1900,Italy
+9,AUS,2,0,3,5,1900,Australia
+10,DEN,1,3,2,6,1900,Denmark
+11,HUN,1,2,2,5,1900,Hungary
+12,CUB,1,1,0,2,1900,Cuba
+13,CAN,1,0,1,2,1900,Canada
+14,ESP,1,0,0,1,1900,Spain
+14,LUX,1,0,0,1,1900,Luxembourg
+16,AUT,0,3,3,6,1900,Austria
+17,NOR,0,2,3,5,1900,Norway
+17,NED,0,2,3,5,1900,Netherlands
+19,IND,0,2,0,2,1900,India
+20,CZE,0,1,1,2,1900,Bohemia
+21,SWE,0,0,1,1,1900,Sweden
+1,USA,76,78,77,231,1904,United States
+2,GER,4,5,6,15,1904,Germany
+3,CAN,4,1,1,6,1904,Canada
+4,CUB,3,0,0,3,1904,Cuba
+5,HUN,2,1,1,4,1904,Hungary
+5,ZZX,2,1,1,4,1904,Mixed team
+7,NOR,2,0,0,2,1904,Norway
+8,AUT,1,1,1,3,1904,Austria
+9,GBR,1,1,0,2,1904,Great Britain
+10,SUI,1,0,2,3,1904,Switzerland
+11,GRE,1,0,1,2,1904,Greece
+12,AUS,0,3,1,4,1904,Australia
+13,FRA,0,1,0,1,1904,France
+1,GBR,56,51,39,146,1908,Great Britain
+2,USA,23,12,12,47,1908,United States
+3,SWE,8,6,11,25,1908,Sweden
+4,FRA,5,5,9,19,1908,France
+5,GER,3,5,5,13,1908,Germany
+6,HUN,3,4,2,9,1908,Hungary
+7,CAN,3,3,10,16,1908,Canada
+8,NOR,2,3,3,8,1908,Norway
+9,ITA,2,2,0,4,1908,Italy
+10,BEL,1,5,2,8,1908,Belgium
+11,ANZ,1,2,2,5,1908,Australasia
+12,RUS,1,2,0,3,1908,Russian Empire
+13,FIN,1,1,3,5,1908,Finland
+14,RSA,1,1,0,2,1908,South Africa
+15,GRE,0,3,1,4,1908,Greece
+16,DEN,0,2,3,5,1908,Denmark
+17,CZE,0,0,2,2,1908,Bohemia
+17,NED,0,0,2,2,1908,Netherlands
+19,AUT,0,0,1,1,1908,Austria
+1,USA,26,19,19,64,1912,United States
+2,SWE,23,25,17,65,1912,Sweden
+3,GBR,10,15,16,41,1912,Great Britain
+4,FIN,9,8,9,26,1912,Finland
+5,FRA,7,4,3,14,1912,France
+6,GER,5,13,7,25,1912,Germany
+7,RSA,4,2,0,6,1912,South Africa
+8,NOR,3,2,5,10,1912,Norway
+9,CAN,3,2,3,8,1912,Canada
+9,HUN,3,2,3,8,1912,Hungary
+11,ITA,3,1,2,6,1912,Italy
+12,ANZ,2,2,3,7,1912,Australasia
+13,BEL,2,1,3,6,1912,Belgium
+14,DEN,1,6,5,12,1912,Denmark
+15,GRE,1,0,1,2,1912,Greece
+16,RUS,0,2,3,5,1912,Russian Empire
+17,AUT,0,2,2,4,1912,Austria
+18,NED,0,0,3,3,1912,Netherlands
+1,USA,41,27,27,95,1920,United States
+2,SWE,19,20,25,64,1920,Sweden
+3,FIN,15,10,9,34,1920,Finland
+4,GBR,14,15,13,42,1920,Great Britain
+5,BEL,14,11,11,36,1920,Belgium
+6,NOR,13,9,9,31,1920,Norway
+7,ITA,13,5,5,23,1920,Italy
+8,FRA,9,19,13,41,1920,France
+9,NED,4,2,5,11,1920,Netherlands
+10,DEN,3,9,1,13,1920,Denmark
+11,RSA,3,4,3,10,1920,South Africa
+12,CAN,3,3,3,9,1920,Canada
+13,SUI,2,2,7,11,1920,Switzerland
+14,EST,1,2,0,3,1920,Estonia
+15,BRA,1,1,1,3,1920,Brazil
+16,AUS,0,2,1,3,1920,Australia
+17,JPN,0,2,0,2,1920,Japan
+17,ESP,0,2,0,2,1920,Spain
+19,GRE,0,1,0,1,1920,Greece
+19,LUX,0,1,0,1,1920,Luxembourg
+21,CZE,0,0,2,2,1920,Czechoslovakia
+22,NZL,0,0,1,1,1920,New Zealand
+1,USA,45,27,27,99,1924,United States
+2,FIN,14,13,10,37,1924,Finland
+3,FRA,13,15,10,38,1924,France
+4,GBR,9,13,12,34,1924,Great Britain
+5,ITA,8,3,5,16,1924,Italy
+6,SUI,7,8,10,25,1924,Switzerland
+7,NOR,5,2,3,10,1924,Norway
+8,SWE,4,13,12,29,1924,Sweden
+9,NED,4,1,5,10,1924,Netherlands
+10,BEL,3,7,3,13,1924,Belgium
+11,AUS,3,1,2,6,1924,Australia
+12,DEN,2,5,2,9,1924,Denmark
+13,HUN,2,3,4,9,1924,Hungary
+14,SRB,2,0,0,2,1924,Yugoslavia
+15,CZE,1,4,5,10,1924,Czechoslovakia
+16,ARG,1,3,2,6,1924,Argentina
+17,EST,1,1,4,6,1924,Estonia
+18,RSA,1,1,1,3,1924,South Africa
+19,URU,1,0,0,1,1924,Uruguay
+20,AUT,0,3,1,4,1924,Austria
+20,CAN,0,3,1,4,1924,Canada
+22,POL,0,1,1,2,1924,Poland
+23,HAI,0,0,1,1,1924,Haiti
+23,JPN,0,0,1,1,1924,Japan
+23,NZL,0,0,1,1,1924,New Zealand
+23,POR,0,0,1,1,1924,Portugal
+23,ROU,0,0,1,1,1924,Romania
+1,USA,22,18,16,56,1928,United States
+2,GER,10,7,14,31,1928,Germany
+3,FIN,8,8,9,25,1928,Finland
+4,SWE,7,6,12,25,1928,Sweden
+5,ITA,7,5,7,19,1928,Italy
+6,SUI,7,4,4,15,1928,Switzerland
+7,FRA,6,10,5,21,1928,France
+8,NED,6,9,4,19,1928,Netherlands
+9,HUN,4,5,0,9,1928,Hungary
+10,CAN,4,4,7,15,1928,Canada
+11,GBR,3,10,7,20,1928,Great Britain
+12,ARG,3,3,1,7,1928,Argentina
+13,DEN,3,1,2,6,1928,Denmark
+14,CZE,2,5,2,9,1928,Czechoslovakia
+15,JPN,2,2,1,5,1928,Japan
+16,EST,2,1,2,5,1928,Estonia
+17,EGY,2,1,1,4,1928,Egypt
+18,AUT,2,0,1,3,1928,Austria
+19,AUS,1,2,1,4,1928,Australia
+19,NOR,1,2,1,4,1928,Norway
+21,POL,1,1,3,5,1928,Poland
+21,SRB,1,1,3,5,1928,Yugoslavia
+23,RSA,1,0,2,3,1928,South Africa
+24,IND,1,0,0,1,1928,India
+24,IRL,1,0,0,1,1928,Ireland
+24,NZL,1,0,0,1,1928,New Zealand
+24,ESP,1,0,0,1,1928,Spain
+24,URU,1,0,0,1,1928,Uruguay
+29,BEL,0,1,2,3,1928,Belgium
+30,CHI,0,1,0,1,1928,Chile
+30,HAI,0,1,0,1,1928,Haiti
+32,PHI,0,0,1,1,1928,Philippines
+32,POR,0,0,1,1,1928,Portugal
+1,USA,44,36,30,110,1932,United States
+2,ITA,12,12,12,36,1932,Italy
+3,FRA,11,5,4,20,1932,France
+4,SWE,10,5,9,24,1932,Sweden
+5,JPN,7,7,4,18,1932,Japan
+6,HUN,6,5,5,16,1932,Hungary
+7,GER,5,12,7,24,1932,Germany
+8,FIN,5,8,12,25,1932,Finland
+9,GBR,5,7,5,17,1932,Great Britain
+10,POL,3,2,4,9,1932,Poland
+11,AUS,3,1,1,5,1932,Australia
+12,ARG,3,1,0,4,1932,Argentina
+13,CAN,2,5,9,16,1932,Canada
+14,NED,2,5,1,8,1932,Netherlands
+15,RSA,2,0,3,5,1932,South Africa
+16,IRL,2,0,0,2,1932,Ireland
+17,CZE,1,3,2,6,1932,Czechoslovakia
+18,AUT,1,1,3,5,1932,Austria
+19,IND,1,0,0,1,1932,India
+20,DEN,0,5,3,8,1932,Denmark
+21,MEX,0,2,0,2,1932,Mexico
+22,LAT,0,1,0,1,1932,Latvia
+22,NZL,0,1,0,1,1932,New Zealand
+22,SUI,0,1,0,1,1932,Switzerland
+25,PHI,0,0,3,3,1932,Philippines
+26,BEL,0,0,1,1,1932,Belgium
+26,ESP,0,0,1,1,1932,Spain
+26,URU,0,0,1,1,1932,Uruguay
+1,GER,38,31,32,101,1936,Germany
+2,USA,24,21,12,57,1936,United States
+3,HUN,10,1,5,16,1936,Hungary
+4,ITA,9,13,5,27,1936,Italy
+5,FIN,8,6,6,20,1936,Finland
+6,FRA,7,6,6,19,1936,France
+7,SWE,6,5,10,21,1936,Sweden
+8,JPN,6,4,10,20,1936,Japan
+9,NED,6,4,7,17,1936,Netherlands
+10,AUT,5,7,5,17,1936,Austria
+11,SUI,4,9,5,18,1936,Switzerland
+12,GBR,4,7,3,14,1936,Great Britain
+13,CZE,3,5,1,9,1936,Czechoslovakia
+14,ARG,2,2,3,7,1936,Argentina
+14,EST,2,2,3,7,1936,Estonia
+16,EGY,2,1,2,5,1936,Egypt
+17,CAN,1,3,5,9,1936,Canada
+18,NOR,1,3,2,6,1936,Norway
+19,TUR,1,0,1,2,1936,Turkey
+20,IND,1,0,0,1,1936,India
+20,NZL,1,0,0,1,1936,New Zealand
+22,POL,0,4,5,9,1936,Poland
+23,DEN,0,2,3,5,1936,Denmark
+24,LAT,0,1,1,2,1936,Latvia
+25,ROU,0,1,0,1,1936,Romania
+25,RSA,0,1,0,1,1936,South Africa
+25,SRB,0,1,0,1,1936,Yugoslavia
+28,BEL,0,0,3,3,1936,Belgium
+28,MEX,0,0,3,3,1936,Mexico
+30,AUS,0,0,1,1,1936,Australia
+30,PHI,0,0,1,1,1936,Philippines
+30,POR,0,0,1,1,1936,Portugal
+1,USA,38,27,19,84,1948,United States
+2,SWE,16,11,17,44,1948,Sweden
+3,FRA,10,6,13,29,1948,France
+4,HUN,10,5,12,27,1948,Hungary
+5,ITA,8,11,8,27,1948,Italy
+6,FIN,8,7,5,20,1948,Finland
+7,TUR,6,4,2,12,1948,Turkey
+8,CZE,6,2,3,11,1948,Czechoslovakia
+9,SUI,5,10,5,20,1948,Switzerland
+10,DEN,5,7,8,20,1948,Denmark
+11,NED,5,2,9,16,1948,Netherlands
+12,GBR,3,14,6,23,1948,Great Britain
+13,ARG,3,3,1,7,1948,Argentina
+14,AUS,2,6,5,13,1948,Australia
+15,BEL,2,2,3,7,1948,Belgium
+16,EGY,2,2,1,5,1948,Egypt
+17,MEX,2,1,2,5,1948,Mexico
+18,RSA,2,1,1,4,1948,South Africa
+19,NOR,1,3,3,7,1948,Norway
+20,JAM,1,2,0,3,1948,Jamaica
+21,AUT,1,0,3,4,1948,Austria
+22,IND,1,0,0,1,1948,India
+22,PER,1,0,0,1,1948,Peru
+24,SRB,0,2,0,2,1948,Yugoslavia
+25,CAN,0,1,2,3,1948,Canada
+26,POR,0,1,1,2,1948,Portugal
+26,URU,0,1,1,2,1948,Uruguay
+28,SRI,0,1,0,1,1948,Ceylon
+28,CUB,0,1,0,1,1948,Cuba
+28,ESP,0,1,0,1,1948,Spain
+28,TTO,0,1,0,1,1948,Trinidad and Tobago
+32,PAN,0,0,2,2,1948,Panama
+32,KOR,0,0,2,2,1948,South Korea
+34,BRA,0,0,1,1,1948,Brazil
+34,IRI,0,0,1,1,1948,Iran
+34,POL,0,0,1,1,1948,Poland
+34,PUR,0,0,1,1,1948,Puerto Rico
+1,USA,40,19,17,76,1952,United States
+2,RUS,22,30,19,71,1952,Soviet Union
+3,HUN,16,10,16,42,1952,Hungary
+4,SWE,12,13,10,35,1952,Sweden
+5,ITA,8,9,4,21,1952,Italy
+6,CZE,7,3,3,13,1952,Czechoslovakia
+7,FRA,6,6,6,18,1952,France
+8,FIN,6,3,13,22,1952,Finland
+9,AUS,6,2,3,11,1952,Australia
+10,NOR,3,2,0,5,1952,Norway
+11,SUI,2,6,6,14,1952,Switzerland
+12,RSA,2,4,4,10,1952,South Africa
+13,JAM,2,3,0,5,1952,Jamaica
+14,BEL,2,2,0,4,1952,Belgium
+15,DEN,2,1,3,6,1952,Denmark
+16,TUR,2,0,1,3,1952,Turkey
+17,JPN,1,6,2,9,1952,Japan
+18,GBR,1,2,8,11,1952,Great Britain
+19,ARG,1,2,2,5,1952,Argentina
+20,POL,1,2,1,4,1952,Poland
+21,CAN,1,2,0,3,1952,Canada
+21,SRB,1,2,0,3,1952,Yugoslavia
+23,ROU,1,1,2,4,1952,Romania
+24,BRA,1,0,2,3,1952,Brazil
+24,NZL,1,0,2,3,1952,New Zealand
+26,IND,1,0,1,2,1952,India
+27,LUX,1,0,0,1,1952,Luxembourg
+28,GER,0,7,17,24,1952,Germany
+29,NED,0,5,0,5,1952,Netherlands
+30,IRI,0,3,4,7,1952,Iran
+31,CHI,0,2,0,2,1952,Chile
+32,AUT,0,1,1,2,1952,Austria
+32,LBN,0,1,1,2,1952,Lebanon
+34,IRL,0,1,0,1,1952,Ireland
+34,MEX,0,1,0,1,1952,Mexico
+34,ESP,0,1,0,1,1952,Spain
+37,KOR,0,0,2,2,1952,South Korea
+37,TTO,0,0,2,2,1952,Trinidad and Tobago
+37,URU,0,0,2,2,1952,Uruguay
+40,BUL,0,0,1,1,1952,Bulgaria
+40,EGY,0,0,1,1,1952,Egypt
+40,POR,0,0,1,1,1952,Portugal
+40,VEN,0,0,1,1,1952,Venezuela
+1,RUS,37,29,32,98,1956,Soviet Union
+2,USA,32,25,17,74,1956,United States
+3,AUS,13,8,14,35,1956,Australia
+4,HUN,9,10,7,26,1956,Hungary
+5,ITA,8,8,9,25,1956,Italy
+6,SWE,8,5,6,19,1956,Sweden
+7,United Team of Germany,6,13,7,26,1956,United Team of Germany
+8,GBR,6,7,11,24,1956,Great Britain
+9,ROU,5,3,5,13,1956,Romania
+10,JPN,4,10,5,19,1956,Japan
+11,FRA,4,4,6,14,1956,France
+12,TUR,3,2,2,7,1956,Turkey
+13,FIN,3,1,11,15,1956,Finland
+14,IRI,2,2,1,5,1956,Iran
+15,CAN,2,1,3,6,1956,Canada
+16,NZL,2,0,0,2,1956,New Zealand
+17,POL,1,4,4,9,1956,Poland
+18,CZE,1,4,1,6,1956,Czechoslovakia
+19,BUL,1,3,1,5,1956,Bulgaria
+20,DEN,1,2,1,4,1956,Denmark
+21,IRL,1,1,3,5,1956,Ireland
+22,NOR,1,0,2,3,1956,Norway
+23,MEX,1,0,1,2,1956,Mexico
+24,BRA,1,0,0,1,1956,Brazil
+24,IND,1,0,0,1,1956,India
+26,SRB,0,3,0,3,1956,Yugoslavia
+27,CHI,0,2,2,4,1956,Chile
+28,BEL,0,2,0,2,1956,Belgium
+29,ARG,0,1,1,2,1956,Argentina
+29,KOR,0,1,1,2,1956,South Korea
+31,ISL,0,1,0,1,1956,Iceland
+31,PAK,0,1,0,1,1956,Pakistan
+33,RSA,0,0,4,4,1956,South Africa
+34,AUT,0,0,2,2,1956,Austria
+35,BAH,0,0,1,1,1956,Bahamas
+35,GRE,0,0,1,1,1956,Greece
+35,SUI,0,0,1,1,1956,Switzerland
+35,URU,0,0,1,1,1956,Uruguay
+1,RUS,43,29,31,103,1960,Soviet Union
+2,USA,34,21,16,71,1960,United States
+3,ITA,13,10,13,36,1960,Italy
+4,United Team of Germany,12,19,11,42,1960,United Team of Germany
+5,AUS,8,8,6,22,1960,Australia
+6,TUR,7,2,0,9,1960,Turkey
+7,HUN,6,8,7,21,1960,Hungary
+8,JPN,4,7,7,18,1960,Japan
+9,POL,4,6,11,21,1960,Poland
+10,CZE,3,2,3,8,1960,Czechoslovakia
+11,ROU,3,1,6,10,1960,Romania
+12,GBR,2,6,12,20,1960,Great Britain
+13,DEN,2,3,1,6,1960,Denmark
+14,NZL,2,0,1,3,1960,New Zealand
+15,BUL,1,3,3,7,1960,Bulgaria
+16,SWE,1,2,3,6,1960,Sweden
+17,FIN,1,1,3,5,1960,Finland
+18,AUT,1,1,0,2,1960,Austria
+18,SRB,1,1,0,2,1960,Yugoslavia
+20,PAK,1,0,1,2,1960,Pakistan
+21,ETH,1,0,0,1,1960,Ethiopia
+21,GRE,1,0,0,1,1960,Greece
+21,NOR,1,0,0,1,1960,Norway
+24,SUI,0,3,3,6,1960,Switzerland
+25,FRA,0,2,3,5,1960,France
+26,BEL,0,2,2,4,1960,Belgium
+27,IRI,0,1,3,4,1960,Iran
+28,NED,0,1,2,3,1960,Netherlands
+28,RSA,0,1,2,3,1960,South Africa
+30,ARG,0,1,1,2,1960,Argentina
+30,EGY,0,1,1,2,1960,Egypt
+32,CAN,0,1,0,1,1960,Canada
+32,Formosa,0,1,0,1,1960,Formosa
+32,GHA,0,1,0,1,1960,Ghana
+32,IND,0,1,0,1,1960,India
+32,MAR,0,1,0,1,1960,Morocco
+32,POR,0,1,0,1,1960,Portugal
+32,SGP,0,1,0,1,1960,Singapore
+39,BRA,0,0,2,2,1960,Brazil
+39,British West Indies,0,0,2,2,1960,British West Indies
+41,IRQ,0,0,1,1,1960,Iraq
+41,MEX,0,0,1,1,1960,Mexico
+41,ESP,0,0,1,1,1960,Spain
+41,VEN,0,0,1,1,1960,Venezuela
+1,USA,36,26,28,90,1964,United States
+2,RUS,30,31,35,96,1964,Soviet Union
+3,JPN,16,5,8,29,1964,Japan
+4,United Team of Germany,10,22,18,50,1964,United Team of Germany
+5,ITA,10,10,7,27,1964,Italy
+6,HUN,10,7,5,22,1964,Hungary
+7,POL,7,6,10,23,1964,Poland
+8,AUS,6,2,10,18,1964,Australia
+9,CZE,5,6,3,14,1964,Czechoslovakia
+10,GBR,4,12,2,18,1964,Great Britain
+11,BUL,3,5,2,10,1964,Bulgaria
+12,FIN,3,0,2,5,1964,Finland
+12,NZL,3,0,2,5,1964,New Zealand
+14,ROU,2,4,6,12,1964,Romania
+15,NED,2,4,4,10,1964,Netherlands
+16,TUR,2,3,1,6,1964,Turkey
+17,SWE,2,2,4,8,1964,Sweden
+18,DEN,2,1,3,6,1964,Denmark
+19,SRB,2,1,2,5,1964,Yugoslavia
+20,BEL,2,0,1,3,1964,Belgium
+21,FRA,1,8,6,15,1964,France
+22,CAN,1,2,1,4,1964,Canada
+22,SUI,1,2,1,4,1964,Switzerland
+24,BAH,1,0,0,1,1964,Bahamas
+24,ETH,1,0,0,1,1964,Ethiopia
+24,IND,1,0,0,1,1964,India
+27,KOR,0,2,1,3,1964,South Korea
+28,TTO,0,1,2,3,1964,Trinidad and Tobago
+29,TUN,0,1,1,2,1964,Tunisia
+30,ARG,0,1,0,1,1964,Argentina
+30,CUB,0,1,0,1,1964,Cuba
+30,PAK,0,1,0,1,1964,Pakistan
+30,PHI,0,1,0,1,1964,Philippines
+34,IRI,0,0,2,2,1964,Iran
+35,BRA,0,0,1,1,1964,Brazil
+35,GHA,0,0,1,1,1964,Ghana
+35,IRL,0,0,1,1,1964,Ireland
+35,KEN,0,0,1,1,1964,Kenya
+35,MEX,0,0,1,1,1964,Mexico
+35,NGR,0,0,1,1,1964,Nigeria
+35,URU,0,0,1,1,1964,Uruguay
+1,USA,45,28,34,107,1968,United States
+2,RUS,29,32,30,91,1968,Soviet Union
+3,JPN,11,7,7,25,1968,Japan
+4,HUN,10,10,12,32,1968,Hungary
+5,GER,9,9,7,25,1968,East Germany
+6,FRA,7,3,5,15,1968,France
+7,CZE,7,2,4,13,1968,Czechoslovakia
+8,GER,5,11,10,26,1968,West Germany
+9,AUS,5,7,5,17,1968,Australia
+10,GBR,5,5,3,13,1968,Great Britain
+11,POL,5,2,11,18,1968,Poland
+12,ROU,4,6,5,15,1968,Romania
+13,ITA,3,4,9,16,1968,Italy
+14,KEN,3,4,2,9,1968,Kenya
+15,MEX,3,3,3,9,1968,Mexico
+16,SRB,3,3,2,8,1968,Yugoslavia
+17,NED,3,3,1,7,1968,Netherlands
+18,BUL,2,4,3,9,1968,Bulgaria
+19,IRI,2,1,2,5,1968,Iran
+20,SWE,2,1,1,4,1968,Sweden
+21,TUR,2,0,0,2,1968,Turkey
+22,DEN,1,4,3,8,1968,Denmark
+23,CAN,1,3,1,5,1968,Canada
+24,FIN,1,2,1,4,1968,Finland
+25,ETH,1,1,0,2,1968,Ethiopia
+25,NOR,1,1,0,2,1968,Norway
+27,NZL,1,0,2,3,1968,New Zealand
+28,TUN,1,0,1,2,1968,Tunisia
+29,PAK,1,0,0,1,1968,Pakistan
+29,VEN,1,0,0,1,1968,Venezuela
+31,CUB,0,4,0,4,1968,Cuba
+32,AUT,0,2,2,4,1968,Austria
+33,SUI,0,1,4,5,1968,Switzerland
+34,MGL,0,1,3,4,1968,Mongolia
+35,BRA,0,1,2,3,1968,Brazil
+36,BEL,0,1,1,2,1968,Belgium
+36,KOR,0,1,1,2,1968,South Korea
+36,UGA,0,1,1,2,1968,Uganda
+39,CMR,0,1,0,1,1968,Cameroon
+39,JAM,0,1,0,1,1968,Jamaica
+41,ARG,0,0,2,2,1968,Argentina
+42,GRE,0,0,1,1,1968,Greece
+42,IND,0,0,1,1,1968,India
+42,Taiwan,0,0,1,1,1968,Taiwan
+1,RUS,50,27,22,99,1972,Soviet Union
+2,USA,33,31,30,94,1972,United States
+3,GER,20,23,23,66,1972,East Germany
+4,GER,13,11,16,40,1972,West Germany
+5,JPN,13,8,8,29,1972,Japan
+6,AUS,8,7,2,17,1972,Australia
+7,POL,7,5,9,21,1972,Poland
+8,HUN,6,13,16,35,1972,Hungary
+9,BUL,6,10,5,21,1972,Bulgaria
+10,ITA,5,3,10,18,1972,Italy
+11,SWE,4,6,6,16,1972,Sweden
+12,GBR,4,5,9,18,1972,Great Britain
+13,ROU,3,6,7,16,1972,Romania
+14,CUB,3,1,4,8,1972,Cuba
+14,FIN,3,1,4,8,1972,Finland
+16,NED,3,1,1,5,1972,Netherlands
+17,FRA,2,4,7,13,1972,France
+18,CZE,2,4,2,8,1972,Czechoslovakia
+19,KEN,2,3,4,9,1972,Kenya
+20,SRB,2,1,2,5,1972,Yugoslavia
+21,NOR,2,1,1,4,1972,Norway
+22,PRK,1,1,3,5,1972,North Korea
+23,NZL,1,1,1,3,1972,New Zealand
+24,UGA,1,1,0,2,1972,Uganda
+25,DEN,1,0,0,1,1972,Denmark
+26,SUI,0,3,0,3,1972,Switzerland
+27,CAN,0,2,3,5,1972,Canada
+28,IRI,0,2,1,3,1972,Iran
+29,BEL,0,2,0,2,1972,Belgium
+29,GRE,0,2,0,2,1972,Greece
+31,AUT,0,1,2,3,1972,Austria
+31,COL,0,1,2,3,1972,Colombia
+33,ARG,0,1,0,1,1972,Argentina
+33,LBN,0,1,0,1,1972,Lebanon
+33,MEX,0,1,0,1,1972,Mexico
+33,MGL,0,1,0,1,1972,Mongolia
+33,PAK,0,1,0,1,1972,Pakistan
+33,KOR,0,1,0,1,1972,South Korea
+33,TUN,0,1,0,1,1972,Tunisia
+33,TUR,0,1,0,1,1972,Turkey
+41,BRA,0,0,2,2,1972,Brazil
+41,ETH,0,0,2,2,1972,Ethiopia
+43,GHA,0,0,1,1,1972,Ghana
+43,IND,0,0,1,1,1972,India
+43,JAM,0,0,1,1,1972,Jamaica
+43,NIG,0,0,1,1,1972,Niger
+43,NGR,0,0,1,1,1972,Nigeria
+43,ESP,0,0,1,1,1972,Spain
+1,RUS,49,41,35,125,1976,Soviet Union
+2,GER,40,25,25,90,1976,East Germany
+3,USA,34,35,25,94,1976,United States
+4,GER,10,12,17,39,1976,West Germany
+5,JPN,9,6,10,25,1976,Japan
+6,POL,7,6,13,26,1976,Poland
+7,BUL,6,9,7,22,1976,Bulgaria
+8,CUB,6,4,3,13,1976,Cuba
+9,ROU,4,9,14,27,1976,Romania
+10,HUN,4,5,13,22,1976,Hungary
+11,FIN,4,2,0,6,1976,Finland
+12,SWE,4,1,0,5,1976,Sweden
+13,GBR,3,5,5,13,1976,Great Britain
+14,ITA,2,7,4,13,1976,Italy
+15,FRA,2,3,4,9,1976,France
+16,SRB,2,3,3,8,1976,Yugoslavia
+17,CZE,2,2,4,8,1976,Czechoslovakia
+18,NZL,2,1,1,4,1976,New Zealand
+19,KOR,1,1,4,6,1976,South Korea
+20,SUI,1,1,2,4,1976,Switzerland
+21,JAM,1,1,0,2,1976,Jamaica
+21,PRK,1,1,0,2,1976,North Korea
+21,NOR,1,1,0,2,1976,Norway
+24,DEN,1,0,2,3,1976,Denmark
+25,MEX,1,0,1,2,1976,Mexico
+26,TTO,1,0,0,1,1976,Trinidad and Tobago
+27,CAN,0,5,6,11,1976,Canada
+28,BEL,0,3,3,6,1976,Belgium
+29,NED,0,2,3,5,1976,Netherlands
+30,POR,0,2,0,2,1976,Portugal
+30,ESP,0,2,0,2,1976,Spain
+32,AUS,0,1,4,5,1976,Australia
+33,IRI,0,1,1,2,1976,Iran
+34,MGL,0,1,0,1,1976,Mongolia
+34,VEN,0,1,0,1,1976,Venezuela
+36,BRA,0,0,2,2,1976,Brazil
+37,AUT,0,0,1,1,1976,Austria
+37,BER,0,0,1,1,1976,Bermuda
+37,PAK,0,0,1,1,1976,Pakistan
+37,PUR,0,0,1,1,1976,Puerto Rico
+37,THA,0,0,1,1,1976,Thailand
+1,RUS,80,69,46,195,1980,Soviet Union
+2,GER,47,37,42,126,1980,East Germany
+3,BUL,8,16,17,41,1980,Bulgaria
+4,CUB,8,7,5,20,1980,Cuba
+5,ITA,8,3,4,15,1980,Italy
+6,HUN,7,10,15,32,1980,Hungary
+7,ROU,6,6,13,25,1980,Romania
+8,FRA,6,5,3,14,1980,France
+9,GBR,5,7,9,21,1980,Great Britain
+10,POL,3,14,15,32,1980,Poland
+11,SWE,3,3,6,12,1980,Sweden
+12,FIN,3,1,4,8,1980,Finland
+13,CZE,2,3,9,14,1980,Czechoslovakia
+14,SRB,2,3,4,9,1980,Yugoslavia
+15,AUS,2,2,5,9,1980,Australia
+16,DEN,2,1,2,5,1980,Denmark
+17,BRA,2,0,2,4,1980,Brazil
+17,ETH,2,0,2,4,1980,Ethiopia
+19,SUI,2,0,0,2,1980,Switzerland
+20,ESP,1,3,2,6,1980,Spain
+21,AUT,1,2,1,4,1980,Austria
+22,GRE,1,0,2,3,1980,Greece
+23,BEL,1,0,0,1,1980,Belgium
+23,IND,1,0,0,1,1980,India
+23,ZIM,1,0,0,1,1980,Zimbabwe
+26,PRK,0,3,2,5,1980,North Korea
+27,MGL,0,2,2,4,1980,Mongolia
+28,TAN,0,2,0,2,1980,Tanzania
+29,MEX,0,1,3,4,1980,Mexico
+30,NED,0,1,2,3,1980,Netherlands
+31,IRL,0,1,1,2,1980,Ireland
+32,UGA,0,1,0,1,1980,Uganda
+32,VEN,0,1,0,1,1980,Venezuela
+34,JAM,0,0,3,3,1980,Jamaica
+35,GUY,0,0,1,1,1980,Guyana
+35,LBN,0,0,1,1,1980,Lebanon
+1,USA,83,61,30,174,1984,United States
+2,ROU,20,16,17,53,1984,Romania
+3,GER,17,19,23,59,1984,West Germany
+4,CHN,15,8,9,32,1984,China
+5,ITA,14,6,12,32,1984,Italy
+6,CAN,10,18,16,44,1984,Canada
+7,JPN,10,8,14,32,1984,Japan
+8,NZL,8,1,2,11,1984,New Zealand
+9,SRB,7,4,7,18,1984,Yugoslavia
+10,KOR,6,6,7,19,1984,South Korea
+11,GBR,5,11,21,37,1984,Great Britain
+12,FRA,5,7,16,28,1984,France
+13,NED,5,2,6,13,1984,Netherlands
+14,AUS,4,8,12,24,1984,Australia
+15,FIN,4,2,6,12,1984,Finland
+16,SWE,2,11,6,19,1984,Sweden
+17,MEX,2,3,1,6,1984,Mexico
+18,MAR,2,0,0,2,1984,Morocco
+19,BRA,1,5,2,8,1984,Brazil
+20,ESP,1,2,2,5,1984,Spain
+21,BEL,1,1,2,4,1984,Belgium
+22,AUT,1,1,1,3,1984,Austria
+23,KEN,1,0,2,3,1984,Kenya
+23,POR,1,0,2,3,1984,Portugal
+25,PAK,1,0,0,1,1984,Pakistan
+26,SUI,0,4,4,8,1984,Switzerland
+27,DEN,0,3,3,6,1984,Denmark
+28,JAM,0,1,2,3,1984,Jamaica
+28,NOR,0,1,2,3,1984,Norway
+30,GRE,0,1,1,2,1984,Greece
+30,NGR,0,1,1,2,1984,Nigeria
+30,PUR,0,1,1,2,1984,Puerto Rico
+33,COL,0,1,0,1,1984,Colombia
+33,EGY,0,1,0,1,1984,Egypt
+33,IRL,0,1,0,1,1984,Ireland
+33,Ivory Coast,0,1,0,1,1984,Ivory Coast
+33,PER,0,1,0,1,1984,Peru
+33,SYR,0,1,0,1,1984,Syria
+33,THA,0,1,0,1,1984,Thailand
+40,TUR,0,0,3,3,1984,Turkey
+40,VEN,0,0,3,3,1984,Venezuela
+42,ALG,0,0,2,2,1984,Algeria
+43,CMR,0,0,1,1,1984,Cameroon
+43,TPE,0,0,1,1,1984,Chinese Taipei
+43,DOM,0,0,1,1,1984,Dominican Republic
+43,ISL,0,0,1,1,1984,Iceland
+43,ZAM,0,0,1,1,1984,Zambia
+1,RUS,55,31,46,132,1988,Soviet Union
+2,GER,37,35,30,102,1988,East Germany
+3,USA,36,31,27,94,1988,United States
+4,KOR,12,10,11,33,1988,South Korea
+5,GER,11,14,15,40,1988,West Germany
+6,HUN,11,6,6,23,1988,Hungary
+7,BUL,10,12,13,35,1988,Bulgaria
+8,ROU,7,11,6,24,1988,Romania
+9,FRA,6,4,6,16,1988,France
+10,ITA,6,4,4,14,1988,Italy
+11,CHN,5,11,12,28,1988,China
+12,GBR,5,10,9,24,1988,Great Britain
+13,KEN,5,2,2,9,1988,Kenya
+14,JPN,4,3,7,14,1988,Japan
+15,AUS,3,6,5,14,1988,Australia
+16,SRB,3,4,5,12,1988,Yugoslavia
+17,CZE,3,3,2,8,1988,Czechoslovakia
+18,NZL,3,2,8,13,1988,New Zealand
+19,CAN,3,2,5,10,1988,Canada
+20,POL,2,5,9,16,1988,Poland
+21,NOR,2,3,0,5,1988,Norway
+22,NED,2,2,5,9,1988,Netherlands
+23,DEN,2,1,1,4,1988,Denmark
+24,BRA,1,2,3,6,1988,Brazil
+25,FIN,1,1,2,4,1988,Finland
+25,ESP,1,1,2,4,1988,Spain
+27,TUR,1,1,0,2,1988,Turkey
+28,MAR,1,0,2,3,1988,Morocco
+29,AUT,1,0,0,1,1988,Austria
+29,POR,1,0,0,1,1988,Portugal
+29,SUR,1,0,0,1,1988,Suriname
+32,SWE,0,4,7,11,1988,Sweden
+33,SUI,0,2,2,4,1988,Switzerland
+34,JAM,0,2,0,2,1988,Jamaica
+35,ARG,0,1,1,2,1988,Argentina
+36,CHI,0,1,0,1,1988,Chile
+36,CRC,0,1,0,1,1988,Costa Rica
+36,INA,0,1,0,1,1988,Indonesia
+36,IRI,0,1,0,1,1988,Iran
+36,AHO,0,1,0,1,1988,Netherlands Antilles
+36,PER,0,1,0,1,1988,Peru
+36,SEN,0,1,0,1,1988,Senegal
+36,Virgin Islands,0,1,0,1,1988,Virgin Islands
+44,BEL,0,0,2,2,1988,Belgium
+44,MEX,0,0,2,2,1988,Mexico
+46,COL,0,0,1,1,1988,Colombia
+46,DJI,0,0,1,1,1988,Djibouti
+46,GRE,0,0,1,1,1988,Greece
+46,MGL,0,0,1,1,1988,Mongolia
+46,PAK,0,0,1,1,1988,Pakistan
+46,PHI,0,0,1,1,1988,Philippines
+46,THA,0,0,1,1,1988,Thailand
+1,RUS,45,38,29,112,1992,Unified Team
+2,USA,37,34,37,108,1992,United States
+3,GER,33,21,28,82,1992,Germany
+4,CHN,16,22,16,54,1992,China
+5,CUB,14,6,11,31,1992,Cuba
+6,ESP,13,7,2,22,1992,Spain
+7,KOR,12,5,12,29,1992,South Korea
+8,HUN,11,12,7,30,1992,Hungary
+9,FRA,8,5,16,29,1992,France
+10,AUS,7,9,11,27,1992,Australia
+11,CAN,7,4,7,18,1992,Canada
+12,ITA,6,5,8,19,1992,Italy
+13,GBR,5,3,12,20,1992,Great Britain
+14,ROU,4,6,8,18,1992,Romania
+15,CZE,4,2,1,7,1992,Czechoslovakia
+16,PRK,4,0,5,9,1992,North Korea
+17,JPN,3,8,11,22,1992,Japan
+18,BUL,3,7,6,16,1992,Bulgaria
+19,POL,3,6,10,19,1992,Poland
+20,NED,2,6,7,15,1992,Netherlands
+21,KEN,2,4,2,8,1992,Kenya
+22,NOR,2,4,1,7,1992,Norway
+23,TUR,2,2,2,6,1992,Turkey
+24,INA,2,2,1,5,1992,Indonesia
+25,BRA,2,1,0,3,1992,Brazil
+26,GRE,2,0,0,2,1992,Greece
+27,SWE,1,7,4,12,1992,Sweden
+28,NZL,1,4,5,10,1992,New Zealand
+29,FIN,1,2,2,5,1992,Finland
+30,DEN,1,1,4,6,1992,Denmark
+31,MAR,1,1,1,3,1992,Morocco
+32,IRL,1,1,0,2,1992,Ireland
+33,ETH,1,0,2,3,1992,Ethiopia
+34,ALG,1,0,1,2,1992,Algeria
+34,EST,1,0,1,2,1992,Estonia
+34,LTU,1,0,1,2,1992,Lithuania
+37,SUI,1,0,0,1,1992,Switzerland
+38,JAM,0,3,1,4,1992,Jamaica
+38,NGR,0,3,1,4,1992,Nigeria
+40,LAT,0,2,1,3,1992,Latvia
+41,AUT,0,2,0,2,1992,Austria
+41,NAM,0,2,0,2,1992,Namibia
+41,RSA,0,2,0,2,1992,South Africa
+44,BEL,0,1,2,3,1992,Belgium
+44,CRO,0,1,2,3,1992,Croatia
+44,Independent Olympic Participants,0,1,2,3,1992,Independent Olympic Participants
+44,IRI,0,1,2,3,1992,Iran
+48,ISR,0,1,1,2,1992,Israel
+49,TPE,0,1,0,1,1992,Chinese Taipei
+49,MEX,0,1,0,1,1992,Mexico
+49,PER,0,1,0,1,1992,Peru
+52,MGL,0,0,2,2,1992,Mongolia
+52,SLO,0,0,2,2,1992,Slovenia
+54,ARG,0,0,1,1,1992,Argentina
+54,BAH,0,0,1,1,1992,Bahamas
+54,COL,0,0,1,1,1992,Colombia
+54,GHA,0,0,1,1,1992,Ghana
+54,MAS,0,0,1,1,1992,Malaysia
+54,PAK,0,0,1,1,1992,Pakistan
+54,PHI,0,0,1,1,1992,Philippines
+54,PUR,0,0,1,1,1992,Puerto Rico
+54,QAT,0,0,1,1,1992,Qatar
+54,SUR,0,0,1,1,1992,Suriname
+54,THA,0,0,1,1,1992,Thailand
+1,USA,44,32,25,101,1996,United States
+2,RUS,26,21,16,63,1996,Russia
+3,GER,20,18,27,65,1996,Germany
+4,CHN,16,22,12,50,1996,China
+5,FRA,15,7,15,37,1996,France
+6,ITA,13,10,12,35,1996,Italy
+7,AUS,9,9,23,41,1996,Australia
+8,CUB,9,8,8,25,1996,Cuba
+9,UKR,9,2,12,23,1996,Ukraine
+10,KOR,7,15,5,27,1996,South Korea
+11,POL,7,5,5,17,1996,Poland
+12,HUN,7,4,10,21,1996,Hungary
+13,ESP,5,6,6,17,1996,Spain
+14,ROU,4,7,9,20,1996,Romania
+15,NED,4,5,10,19,1996,Netherlands
+16,GRE,4,4,0,8,1996,Greece
+17,CZE,4,3,4,11,1996,Czech Republic
+18,SUI,4,3,0,7,1996,Switzerland
+19,DEN,4,1,1,6,1996,Denmark
+19,TUR,4,1,1,6,1996,Turkey
+21,CAN,3,11,8,22,1996,Canada
+22,BUL,3,7,5,15,1996,Bulgaria
+23,JPN,3,6,5,14,1996,Japan
+24,KAZ,3,4,4,11,1996,Kazakhstan
+25,BRA,3,3,9,15,1996,Brazil
+26,NZL,3,2,1,6,1996,New Zealand
+27,RSA,3,1,1,5,1996,South Africa
+28,IRL,3,0,1,4,1996,Ireland
+29,SWE,2,4,2,8,1996,Sweden
+30,NOR,2,2,3,7,1996,Norway
+31,BEL,2,2,2,6,1996,Belgium
+32,NGR,2,1,3,6,1996,Nigeria
+33,PRK,2,1,2,5,1996,North Korea
+34,ALG,2,0,1,3,1996,Algeria
+34,ETH,2,0,1,3,1996,Ethiopia
+36,GBR,1,8,6,15,1996,Great Britain
+37,BLR,1,6,8,15,1996,Belarus
+38,KEN,1,4,3,8,1996,Kenya
+39,JAM,1,3,2,6,1996,Jamaica
+40,FIN,1,2,1,4,1996,Finland
+41,FR Yugoslavia,1,1,2,4,1996,FR Yugoslavia
+41,INA,1,1,2,4,1996,Indonesia
+43,IRI,1,1,1,3,1996,Iran
+43,SVK,1,1,1,3,1996,Slovakia
+45,ARM,1,1,0,2,1996,Armenia
+45,CRO,1,1,0,2,1996,Croatia
+47,POR,1,0,1,2,1996,Portugal
+47,THA,1,0,1,2,1996,Thailand
+49,BDI,1,0,0,1,1996,Burundi
+49,CRC,1,0,0,1,1996,Costa Rica
+49,ECU,1,0,0,1,1996,Ecuador
+49,HKG,1,0,0,1,1996,Hong Kong
+49,SYR,1,0,0,1,1996,Syria
+54,ARG,0,2,1,3,1996,Argentina
+55,NAM,0,2,0,2,1996,Namibia
+55,SLO,0,2,0,2,1996,Slovenia
+57,AUT,0,1,2,3,1996,Austria
+58,MAS,0,1,1,2,1996,Malaysia
+58,MDA,0,1,1,2,1996,Moldova
+58,UZB,0,1,1,2,1996,Uzbekistan
+61,AZE,0,1,0,1,1996,Azerbaijan
+61,BAH,0,1,0,1,1996,Bahamas
+61,TPE,0,1,0,1,1996,Chinese Taipei
+61,LAT,0,1,0,1,1996,Latvia
+61,PHI,0,1,0,1,1996,Philippines
+61,TGA,0,1,0,1,1996,Tonga
+61,ZAM,0,1,0,1,1996,Zambia
+68,GEO,0,0,2,2,1996,Georgia
+68,MAR,0,0,2,2,1996,Morocco
+68,TTO,0,0,2,2,1996,Trinidad and Tobago
+71,IND,0,0,1,1,1996,India
+71,ISR,0,0,1,1,1996,Israel
+71,LTU,0,0,1,1,1996,Lithuania
+71,MEX,0,0,1,1,1996,Mexico
+71,MGL,0,0,1,1,1996,Mongolia
+71,MOZ,0,0,1,1,1996,Mozambique
+71,PUR,0,0,1,1,1996,Puerto Rico
+71,TUN,0,0,1,1,1996,Tunisia
+71,UGA,0,0,1,1,1996,Uganda
+1,USA,37,24,32,93,2000,United States
+2,RUS,32,28,29,89,2000,Russia
+3,CHN,28,16,14,58,2000,China
+4,AUS,16,25,17,58,2000,Australia
+5,GER,13,17,26,56,2000,Germany
+6,FRA,13,14,11,38,2000,France
+7,ITA,13,8,13,34,2000,Italy
+8,NED,12,9,4,25,2000,Netherlands
+9,CUB,11,11,7,29,2000,Cuba
+10,GBR,11,10,7,28,2000,Great Britain
+11,ROU,11,6,9,26,2000,Romania
+12,KOR,8,10,10,28,2000,South Korea
+13,HUN,8,6,3,17,2000,Hungary
+14,POL,6,5,3,14,2000,Poland
+15,JPN,5,8,5,18,2000,Japan
+16,BUL,5,6,2,13,2000,Bulgaria
+17,GRE,4,6,3,13,2000,Greece
+18,SWE,4,5,3,12,2000,Sweden
+19,NOR,4,3,3,10,2000,Norway
+20,ETH,4,1,3,8,2000,Ethiopia
+21,UKR,3,10,10,23,2000,Ukraine
+22,KAZ,3,4,0,7,2000,Kazakhstan
+23,BLR,3,3,11,17,2000,Belarus
+24,CAN,3,3,8,14,2000,Canada
+25,ESP,3,3,5,11,2000,Spain
+26,TUR,3,0,2,5,2000,Turkey
+27,IRI,3,0,1,4,2000,Iran
+28,CZE,2,3,3,8,2000,Czech Republic
+29,KEN,2,3,2,7,2000,Kenya
+30,DEN,2,3,1,6,2000,Denmark
+31,FIN,2,1,1,4,2000,Finland
+32,AUT,2,1,0,3,2000,Austria
+33,LTU,2,0,3,5,2000,Lithuania
+34,AZE,2,0,1,3,2000,Azerbaijan
+34,BAH,2,0,1,3,2000,Bahamas
+36,SLO,2,0,0,2,2000,Slovenia
+37,SUI,1,6,2,9,2000,Switzerland
+38,INA,1,3,2,6,2000,Indonesia
+39,SVK,1,3,1,5,2000,Slovakia
+40,MEX,1,2,3,6,2000,Mexico
+41,NGR,1,2,0,3,2000,Nigeria
+42,ALG,1,1,3,5,2000,Algeria
+43,UZB,1,1,2,4,2000,Uzbekistan
+44,FR Yugoslavia,1,1,1,3,2000,FR Yugoslavia
+44,LAT,1,1,1,3,2000,Latvia
+46,NZL,1,0,3,4,2000,New Zealand
+47,EST,1,0,2,3,2000,Estonia
+47,THA,1,0,2,3,2000,Thailand
+49,CRO,1,0,1,2,2000,Croatia
+50,CMR,1,0,0,1,2000,Cameroon
+50,COL,1,0,0,1,2000,Colombia
+50,MOZ,1,0,0,1,2000,Mozambique
+53,BRA,0,6,6,12,2000,Brazil
+54,JAM,0,6,3,9,2000,Jamaica
+55,BEL,0,2,3,5,2000,Belgium
+55,RSA,0,2,3,5,2000,South Africa
+57,ARG,0,2,2,4,2000,Argentina
+58,TPE,0,1,4,5,2000,Chinese Taipei
+58,MAR,0,1,4,5,2000,Morocco
+60,PRK,0,1,3,4,2000,North Korea
+61,MDA,0,1,1,2,2000,Moldova
+61,KSA,0,1,1,2,2000,Saudi Arabia
+61,TTO,0,1,1,2,2000,Trinidad and Tobago
+64,IRL,0,1,0,1,2000,Ireland
+64,SRI,0,1,0,1,2000,Sri Lanka
+64,URU,0,1,0,1,2000,Uruguay
+64,VIE,0,1,0,1,2000,Vietnam
+68,GEO,0,0,6,6,2000,Georgia
+69,CRC,0,0,2,2,2000,Costa Rica
+69,POR,0,0,2,2,2000,Portugal
+71,ARM,0,0,1,1,2000,Armenia
+71,BAR,0,0,1,1,2000,Barbados
+71,CHI,0,0,1,1,2000,Chile
+71,ISL,0,0,1,1,2000,Iceland
+71,IND,0,0,1,1,2000,India
+71,ISR,0,0,1,1,2000,Israel
+71,KUW,0,0,1,1,2000,Kuwait
+71,KGZ,0,0,1,1,2000,Kyrgyzstan
+71,MKD,0,0,1,1,2000,Macedonia
+71,QAT,0,0,1,1,2000,Qatar
+1,USA,36,39,26,101,2004,United States
+2,CHN,32,17,14,63,2004,China
+3,RUS,28,26,36,90,2004,Russia
+4,AUS,17,16,17,50,2004,Australia
+5,JPN,16,9,12,37,2004,Japan
+6,GER,13,16,20,49,2004,Germany
+7,FRA,11,9,13,33,2004,France
+8,ITA,10,11,11,32,2004,Italy
+9,KOR,9,12,9,30,2004,South Korea
+10,GBR,9,9,12,30,2004,Great Britain
+11,CUB,9,7,11,27,2004,Cuba
+12,HUN,8,6,3,17,2004,Hungary
+13,UKR,8,5,9,22,2004,Ukraine
+14,ROU,8,5,6,19,2004,Romania
+15,GRE,6,6,4,16,2004,Greece
+16,BRA,5,2,3,10,2004,Brazil
+17,NOR,5,0,1,6,2004,Norway
+18,NED,4,9,9,22,2004,Netherlands
+19,SWE,4,2,1,7,2004,Sweden
+20,ESP,3,11,6,20,2004,Spain
+21,CAN,3,6,3,12,2004,Canada
+22,TUR,3,3,4,10,2004,Turkey
+23,POL,3,2,5,10,2004,Poland
+24,NZL,3,2,0,5,2004,New Zealand
+25,THA,3,1,4,8,2004,Thailand
+26,BLR,2,5,6,13,2004,Belarus
+27,AUT,2,4,1,7,2004,Austria
+28,ETH,2,3,2,7,2004,Ethiopia
+29,IRI,2,2,2,6,2004,Iran
+29,SVK,2,2,2,6,2004,Slovakia
+31,TPE,2,2,1,5,2004,Chinese Taipei
+32,GEO,2,2,0,4,2004,Georgia
+33,BUL,2,1,9,12,2004,Bulgaria
+34,DEN,2,1,5,8,2004,Denmark
+35,JAM,2,1,2,5,2004,Jamaica
+35,UZB,2,1,2,5,2004,Uzbekistan
+37,MAR,2,1,0,3,2004,Morocco
+38,ARG,2,0,4,6,2004,Argentina
+39,CHI,2,0,1,3,2004,Chile
+40,KAZ,1,4,3,8,2004,Kazakhstan
+41,KEN,1,4,2,7,2004,Kenya
+42,CZE,1,3,5,9,2004,Czech Republic
+43,RSA,1,3,2,6,2004,South Africa
+44,CRO,1,2,2,5,2004,Croatia
+45,LTU,1,2,0,3,2004,Lithuania
+46,EGY,1,1,3,5,2004,Egypt
+46,SUI,1,1,3,5,2004,Switzerland
+48,INA,1,1,2,4,2004,Indonesia
+49,ZIM,1,1,1,3,2004,Zimbabwe
+50,AZE,1,0,4,5,2004,Azerbaijan
+51,BEL,1,0,2,3,2004,Belgium
+52,BAH,1,0,1,2,2004,Bahamas
+52,ISR,1,0,1,2,2004,Israel
+54,CMR,1,0,0,1,2004,Cameroon
+54,DOM,1,0,0,1,2004,Dominican Republic
+54,UAE,1,0,0,1,2004,United Arab Emirates
+57,PRK,0,4,1,5,2004,North Korea
+58,LAT,0,4,0,4,2004,Latvia
+59,MEX,0,3,1,4,2004,Mexico
+60,POR,0,2,1,3,2004,Portugal
+61,FIN,0,2,0,2,2004,Finland
+61,SRB,0,2,0,2,2004,Serbia and Montenegro
+63,SLO,0,1,3,4,2004,Slovenia
+64,EST,0,1,2,3,2004,Estonia
+65,HKG,0,1,0,1,2004,Hong Kong
+65,IND,0,1,0,1,2004,India
+65,PAR,0,1,0,1,2004,Paraguay
+68,COL,0,0,2,2,2004,Colombia
+68,NGR,0,0,2,2,2004,Nigeria
+68,VEN,0,0,2,2,2004,Venezuela
+71,ERI,0,0,1,1,2004,Eritrea
+71,MGL,0,0,1,1,2004,Mongolia
+71,SYR,0,0,1,1,2004,Syria
+71,TTO,0,0,1,1,2004,Trinidad and Tobago
+1,CHN,48,22,30,100,2008,China
+2,USA,36,39,37,112,2008,United States
+3,RUS,24,13,23,60,2008,Russia
+4,GBR,19,13,19,51,2008,Great Britain
+5,GER,16,11,14,41,2008,Germany
+6,AUS,14,15,17,46,2008,Australia
+7,KOR,13,11,8,32,2008,South Korea
+8,JPN,9,8,8,25,2008,Japan
+9,ITA,8,9,10,27,2008,Italy
+10,FRA,7,16,20,43,2008,France
+11,NED,7,5,4,16,2008,Netherlands
+12,UKR,7,4,11,22,2008,Ukraine
+13,KEN,6,4,6,16,2008,Kenya
+14,ESP,5,11,3,19,2008,Spain
+15,JAM,5,4,2,11,2008,Jamaica
+16,POL,4,5,2,11,2008,Poland
+17,ETH,4,2,1,7,2008,Ethiopia
+18,ROU,4,1,4,9,2008,Romania
+19,CUB,3,10,17,30,2008,Cuba
+20,CAN,3,9,8,20,2008,Canada
+21,HUN,3,5,2,10,2008,Hungary
+22,NOR,3,5,1,9,2008,Norway
+23,BRA,3,4,10,17,2008,Brazil
+24,BLR,3,4,7,14,2008,Belarus
+25,CZE,3,3,1,7,2008,Czech Republic
+26,SVK,3,3,0,6,2008,Slovakia
+27,NZL,3,2,4,9,2008,New Zealand
+28,GEO,3,2,2,7,2008,Georgia
+29,KAZ,2,3,4,9,2008,Kazakhstan
+30,DEN,2,2,3,7,2008,Denmark
+31,PRK,2,2,2,6,2008,North Korea
+31,THA,2,2,2,6,2008,Thailand
+33,MGL,2,2,0,4,2008,Mongolia
+34,SUI,2,1,4,7,2008,Switzerland
+35,ARG,2,0,4,6,2008,Argentina
+36,MEX,2,0,2,4,2008,Mexico
+37,BEL,2,0,0,2,2008,Belgium
+38,ZIM,1,3,0,4,2008,Zimbabwe
+39,SLO,1,2,2,5,2008,Slovenia
+40,AZE,1,1,4,6,2008,Azerbaijan
+40,INA,1,1,4,6,2008,Indonesia
+42,BUL,1,1,3,5,2008,Bulgaria
+42,TUR,1,1,3,5,2008,Turkey
+44,TPE,1,1,2,4,2008,Chinese Taipei
+44,FIN,1,1,2,4,2008,Finland
+46,LAT,1,1,1,3,2008,Latvia
+47,DOM,1,1,0,2,2008,Dominican Republic
+47,EST,1,1,0,2,2008,Estonia
+47,POR,1,1,0,2,2008,Portugal
+47,TTO,1,1,0,2,2008,Trinidad and Tobago
+51,IND,1,0,2,3,2008,India
+52,IRI,1,0,1,2,2008,Iran
+53,CMR,1,0,0,1,2008,Cameroon
+53,PAN,1,0,0,1,2008,Panama
+53,TUN,1,0,0,1,2008,Tunisia
+56,SWE,0,4,1,5,2008,Sweden
+57,LTU,0,3,2,5,2008,Lithuania
+57,NGR,0,3,2,5,2008,Nigeria
+59,CRO,0,2,3,5,2008,Croatia
+60,COL,0,2,1,3,2008,Colombia
+60,GRE,0,2,1,3,2008,Greece
+62,ARM,0,1,4,5,2008,Armenia
+63,UZB,0,1,3,4,2008,Uzbekistan
+64,AUT,0,1,2,3,2008,Austria
+64,IRL,0,1,2,3,2008,Ireland
+64,KGZ,0,1,2,3,2008,Kyrgyzstan
+64,SRB,0,1,2,3,2008,Serbia
+68,ALG,0,1,1,2,2008,Algeria
+68,BAH,0,1,1,2,2008,Bahamas
+68,MAR,0,1,1,2,2008,Morocco
+68,TJK,0,1,1,2,2008,Tajikistan
+72,CHI,0,1,0,1,2008,Chile
+72,ECU,0,1,0,1,2008,Ecuador
+72,ISL,0,1,0,1,2008,Iceland
+72,MAS,0,1,0,1,2008,Malaysia
+72,SAM,0,1,0,1,2008,Samoa
+72,SGP,0,1,0,1,2008,Singapore
+72,RSA,0,1,0,1,2008,South Africa
+72,SUD,0,1,0,1,2008,Sudan
+72,VIE,0,1,0,1,2008,Vietnam
+81,EGY,0,0,2,2,2008,Egypt
+82,AFG,0,0,1,1,2008,Afghanistan
+82,ISR,0,0,1,1,2008,Israel
+82,MRI,0,0,1,1,2008,Mauritius
+82,MDA,0,0,1,1,2008,Moldova
+82,TOG,0,0,1,1,2008,Togo
+82,VEN,0,0,1,1,2008,Venezuela
+1,USA,48,26,30,104,2012,United States
+2,CHN,39,31,22,92,2012,China
+3,GBR,29,18,18,65,2012,Great Britain
+4,RUS,18,21,26,65,2012,Russia
+5,KOR,13,9,9,31,2012,South Korea
+6,GER,11,20,13,44,2012,Germany
+7,FRA,11,11,13,35,2012,France
+8,AUS,8,15,12,35,2012,Australia
+9,ITA,8,9,11,28,2012,Italy
+10,HUN,8,4,6,18,2012,Hungary
+11,JPN,7,14,17,38,2012,Japan
+12,IRI,7,5,1,13,2012,Iran
+13,NED,6,6,8,20,2012,Netherlands
+14,NZL,6,2,5,13,2012,New Zealand
+15,UKR,5,4,10,19,2012,Ukraine
+16,CUB,5,3,7,15,2012,Cuba
+17,ESP,4,10,6,20,2012,Spain
+18,JAM,4,5,4,13,2012,Jamaica
+19,CZE,4,4,3,11,2012,Czech Republic
+20,RSA,4,1,1,6,2012,South Africa
+21,PRK,4,0,2,6,2012,North Korea
+22,BRA,3,5,9,17,2012,Brazil
+23,KAZ,3,2,6,11,2012,Kazakhstan
+23,POL,3,2,6,11,2012,Poland
+25,ETH,3,2,3,8,2012,Ethiopia
+26,CRO,3,1,2,6,2012,Croatia
+27,CAN,2,6,10,18,2012,Canada
+28,BLR,2,5,3,10,2012,Belarus
+29,KEN,2,4,7,13,2012,Kenya
+30,DEN,2,4,3,9,2012,Denmark
+31,ROU,2,4,1,7,2012,Romania
+32,AZE,2,2,5,9,2012,Azerbaijan
+33,SUI,2,2,0,4,2012,Switzerland
+34,NOR,2,1,1,4,2012,Norway
+35,LTU,2,0,3,5,2012,Lithuania
+36,TUN,2,0,1,3,2012,Tunisia
+37,SWE,1,4,3,8,2012,Sweden
+38,COL,1,3,5,9,2012,Colombia
+39,MEX,1,3,4,8,2012,Mexico
+40,GEO,1,2,3,6,2012,Georgia
+41,IRL,1,1,4,6,2012,Ireland
+42,ARG,1,1,2,4,2012,Argentina
+42,SRB,1,1,2,4,2012,Serbia
+42,SLO,1,1,2,4,2012,Slovenia
+42,TTO,1,1,2,4,2012,Trinidad and Tobago
+46,TUR,1,1,1,3,2012,Turkey
+47,DOM,1,1,0,2,2012,Dominican Republic
+48,TPE,1,0,1,2,2012,Chinese Taipei
+48,LAT,1,0,1,2,2012,Latvia
+50,ALG,1,0,0,1,2012,Algeria
+50,BAH,1,0,0,1,2012,Bahamas
+50,BRN,1,0,0,1,2012,Bahrain
+50,GRN,1,0,0,1,2012,Grenada
+50,UGA,1,0,0,1,2012,Uganda
+50,VEN,1,0,0,1,2012,Venezuela
+56,EGY,0,3,1,4,2012,Egypt
+57,IND,0,2,4,6,2012,India
+58,MGL,0,2,3,5,2012,Mongolia
+59,THA,0,2,2,4,2012,Thailand
+60,BUL,0,2,1,3,2012,Bulgaria
+60,FIN,0,2,1,3,2012,Finland
+60,INA,0,2,1,3,2012,Indonesia
+63,SVK,0,1,3,4,2012,Slovakia
+64,BEL,0,1,2,3,2012,Belgium
+65,ARM,0,1,1,2,2012,Armenia
+65,EST,0,1,1,2,2012,Estonia
+65,MAS,0,1,1,2,2012,Malaysia
+65,PUR,0,1,1,2,2012,Puerto Rico
+65,QAT,0,1,1,2,2012,Qatar
+70,BOT,0,1,0,1,2012,Botswana
+70,CYP,0,1,0,1,2012,Cyprus
+70,GAB,0,1,0,1,2012,Gabon
+70,GUA,0,1,0,1,2012,Guatemala
+70,MNE,0,1,0,1,2012,Montenegro
+70,POR,0,1,0,1,2012,Portugal
+76,UZB,0,0,3,3,2012,Uzbekistan
+77,GRE,0,0,2,2,2012,Greece
+77,SGP,0,0,2,2,2012,Singapore
+79,AFG,0,0,1,1,2012,Afghanistan
+79,CMR,0,0,1,1,2012,Cameroon
+79,HKG,0,0,1,1,2012,Hong Kong
+79,KUW,0,0,1,1,2012,Kuwait
+79,MAR,0,0,1,1,2012,Morocco
+79,KSA,0,0,1,1,2012,Saudi Arabia
+79,TJK,0,0,1,1,2012,Tajikistan
+79,VIE,0,0,1,1,2012,Vietnam
+1,USA,46,37,38,121,2016,United States
+2,GBR,27,23,17,67,2016,Great Britain
+3,CHN,26,18,26,70,2016,China
+4,RUS,19,17,20,56,2016,Russia
+5,GER,17,10,15,42,2016,Germany
+6,JPN,12,8,21,41,2016,Japan
+7,FRA,10,18,14,42,2016,France
+8,KOR,9,3,9,21,2016,South Korea
+9,ITA,8,12,8,28,2016,Italy
+10,AUS,8,11,10,29,2016,Australia
+11,NED,8,7,4,19,2016,Netherlands
+12,HUN,8,3,4,15,2016,Hungary
+13,BRA,7,6,6,19,2016,Brazil
+14,ESP,7,4,6,17,2016,Spain
+15,KEN,6,6,1,13,2016,Kenya
+16,JAM,6,3,2,11,2016,Jamaica
+17,CRO,5,3,2,10,2016,Croatia
+18,CUB,5,2,4,11,2016,Cuba
+19,NZL,4,9,5,18,2016,New Zealand
+20,CAN,4,3,15,22,2016,Canada
+21,UZB,4,2,7,13,2016,Uzbekistan
+22,COL,3,2,3,8,2016,Colombia
+23,SUI,3,2,2,7,2016,Switzerland
+24,IRI,3,1,4,8,2016,Iran
+25,GRE,3,1,2,6,2016,Greece
+26,ARG,3,1,0,4,2016,Argentina
+27,DEN,2,6,7,15,2016,Denmark
+28,SWE,2,6,3,11,2016,Sweden
+29,RSA,2,6,2,10,2016,South Africa
+30,KAZ,2,5,10,17,2016,Kazakhstan
+31,UKR,2,5,4,11,2016,Ukraine
+32,SRB,2,4,2,8,2016,Serbia
+33,POL,2,3,6,11,2016,Poland
+34,PRK,2,3,2,7,2016,North Korea
+35,BEL,2,2,2,6,2016,Belgium
+35,THA,2,2,2,6,2016,Thailand
+37,SVK,2,2,0,4,2016,Slovakia
+38,GEO,2,1,4,7,2016,Georgia
+39,AZE,1,7,10,18,2016,Azerbaijan
+40,BLR,1,4,4,9,2016,Belarus
+41,TUR,1,3,4,8,2016,Turkey
+42,ARM,1,3,0,4,2016,Armenia
+43,CZE,1,2,7,10,2016,Czech Republic
+44,ETH,1,2,5,8,2016,Ethiopia
+45,SLO,1,2,1,4,2016,Slovenia
+46,INA,1,2,0,3,2016,Indonesia
+47,ROU,1,1,2,4,2016,Romania
+48,BRN,1,1,0,2,2016,Bahrain
+48,VIE,1,1,0,2,2016,Vietnam
+50,TPE,1,0,2,3,2016,Chinese Taipei
+51,BAH,1,0,1,2,2016,Bahamas
+51,IOA,1,0,1,2,2016,Independent Olympic Athletes
+51,Ivory Coast,1,0,1,2,2016,Ivory Coast
+54,FIJ,1,0,0,1,2016,Fiji
+54,JOR,1,0,0,1,2016,Jordan
+54,KOS,1,0,0,1,2016,Kosovo
+54,PUR,1,0,0,1,2016,Puerto Rico
+54,SGP,1,0,0,1,2016,Singapore
+54,TJK,1,0,0,1,2016,Tajikistan
+60,MAS,0,4,1,5,2016,Malaysia
+61,MEX,0,3,2,5,2016,Mexico
+62,VEN,0,2,1,3,2016,Venezuela
+63,ALG,0,2,0,2,2016,Algeria
+63,IRL,0,2,0,2,2016,Ireland
+65,LTU,0,1,3,4,2016,Lithuania
+66,BUL,0,1,2,3,2016,Bulgaria
+67,IND,0,1,1,2,2016,India
+67,MGL,0,1,1,2,2016,Mongolia
+69,BDI,0,1,0,1,2016,Burundi
+69,GRN,0,1,0,1,2016,Grenada
+69,NIG,0,1,0,1,2016,Niger
+69,PHI,0,1,0,1,2016,Philippines
+69,QAT,0,1,0,1,2016,Qatar
+74,NOR,0,0,4,4,2016,Norway
+75,EGY,0,0,3,3,2016,Egypt
+75,TUN,0,0,3,3,2016,Tunisia
+77,ISR,0,0,2,2,2016,Israel
+78,AUT,0,0,1,1,2016,Austria
+78,DOM,0,0,1,1,2016,Dominican Republic
+78,EST,0,0,1,1,2016,Estonia
+78,FIN,0,0,1,1,2016,Finland
+78,MAR,0,0,1,1,2016,Morocco
+78,NGR,0,0,1,1,2016,Nigeria
+78,POR,0,0,1,1,2016,Portugal
+78,TTO,0,0,1,1,2016,Trinidad and Tobago
+78,UAE,0,0,1,1,2016,United Arab Emirates
+1,USA,39,41,33,113,2020,United States
+2,CHN,38,32,19,89,2020,China
+3,JPN,27,14,17,58,2020,Japan
+4,GBR,22,20,22,64,2020,Great Britain
+5,ROC,20,28,23,71,2020,ROC
+6,AUS,17,7,22,46,2020,Australia
+7,NED,10,12,14,36,2020,Netherlands
+8,FRA,10,12,11,33,2020,France
+9,GER,10,11,16,37,2020,Germany
+10,ITA,10,10,20,40,2020,Italy
+11,CAN,7,7,10,24,2020,Canada
+12,BRA,7,6,8,21,2020,Brazil
+13,NZL,7,6,7,20,2020,New Zealand
+14,CUB,7,3,5,15,2020,Cuba
+15,HUN,6,7,7,20,2020,Hungary
+16,KOR,6,4,10,20,2020,South Korea
+17,POL,4,5,5,14,2020,Poland
+18,CZE,4,4,3,11,2020,Czech Republic
+19,KEN,4,4,2,10,2020,Kenya
+20,NOR,4,2,2,8,2020,Norway
+21,JAM,4,1,4,9,2020,Jamaica
+22,ESP,3,8,6,17,2020,Spain
+23,SWE,3,6,0,9,2020,Sweden
+24,SUI,3,4,6,13,2020,Switzerland
+25,DEN,3,4,4,11,2020,Denmark
+26,CRO,3,3,2,8,2020,Croatia
+27,IRI,3,2,2,7,2020,Iran
+28,SRB,3,1,5,9,2020,Serbia
+29,BEL,3,1,3,7,2020,Belgium
+30,BUL,3,1,2,6,2020,Bulgaria
+31,SLO,3,1,1,5,2020,Slovenia
+32,UZB,3,0,2,5,2020,Uzbekistan
+33,GEO,2,5,1,8,2020,Georgia
+34,TPE,2,4,6,12,2020,Chinese Taipei
+35,TUR,2,2,9,13,2020,Turkey
+36,GRE,2,1,1,4,2020,Greece
+36,UGA,2,1,1,4,2020,Uganda
+38,ECU,2,1,0,3,2020,Ecuador
+39,IRL,2,0,2,4,2020,Ireland
+39,ISR,2,0,2,4,2020,Israel
+41,QAT,2,0,1,3,2020,Qatar
+42,BAH,2,0,0,2,2020,Bahamas
+42,KOS,2,0,0,2,2020,Kosovo
+44,UKR,1,6,12,19,2020,Ukraine
+45,BLR,1,3,3,7,2020,Belarus
+46,ROU,1,3,0,4,2020,Romania
+46,VEN,1,3,0,4,2020,Venezuela
+48,IND,1,2,4,7,2020,India
+49,HKG,1,2,3,6,2020,Hong Kong
+50,PHI,1,2,1,4,2020,Philippines
+50,SVK,1,2,1,4,2020,Slovakia
+52,RSA,1,2,0,3,2020,South Africa
+53,AUT,1,1,5,7,2020,Austria
+54,EGY,1,1,4,6,2020,Egypt
+55,INA,1,1,3,5,2020,Indonesia
+56,ETH,1,1,2,4,2020,Ethiopia
+56,POR,1,1,2,4,2020,Portugal
+58,TUN,1,1,0,2,2020,Tunisia
+59,EST,1,0,1,2,2020,Estonia
+59,FIJ,1,0,1,2,2020,Fiji
+59,LAT,1,0,1,2,2020,Latvia
+59,THA,1,0,1,2,2020,Thailand
+63,BER,1,0,0,1,2020,Bermuda
+63,MAR,1,0,0,1,2020,Morocco
+63,PUR,1,0,0,1,2020,Puerto Rico
+66,COL,0,4,1,5,2020,Colombia
+67,AZE,0,3,4,7,2020,Azerbaijan
+68,DOM,0,3,2,5,2020,Dominican Republic
+69,ARM,0,2,2,4,2020,Armenia
+70,KGZ,0,2,1,3,2020,Kyrgyzstan
+71,MGL,0,1,3,4,2020,Mongolia
+72,ARG,0,1,2,3,2020,Argentina
+72,SMR,0,1,2,3,2020,San Marino
+74,JOR,0,1,1,2,2020,Jordan
+74,MAS,0,1,1,2,2020,Malaysia
+74,NGR,0,1,1,2,2020,Nigeria
+77,BRN,0,1,0,1,2020,Bahrain
+77,LTU,0,1,0,1,2020,Lithuania
+77,NAM,0,1,0,1,2020,Namibia
+77,North Macedonia,0,1,0,1,2020,North Macedonia
+77,KSA,0,1,0,1,2020,Saudi Arabia
+77,TKM,0,1,0,1,2020,Turkmenistan
+83,KAZ,0,0,8,8,2020,Kazakhstan
+84,MEX,0,0,4,4,2020,Mexico
+85,FIN,0,0,2,2,2020,Finland
+86,BOT,0,0,1,1,2020,Botswana
+86,BUR,0,0,1,1,2020,Burkina Faso
+86,GHA,0,0,1,1,2020,Ghana
+86,GRN,0,0,1,1,2020,Grenada
+86,Ivory Coast,0,0,1,1,2020,Ivory Coast
+86,KUW,0,0,1,1,2020,Kuwait
+86,MDA,0,0,1,1,2020,Moldova
+86,SYR,0,0,1,1,2020,Syria
+1,USA,40,44,42,126,2024,United States
+2,CHN,40,27,24,91,2024,China
+3,JPN,20,12,13,45,2024,Japan
+4,AUS,18,19,16,53,2024,Australia
+5,FRA,16,26,22,64,2024,France
+6,NED,15,7,12,34,2024,Netherlands
+7,GBR,14,22,29,65,2024,Great Britain
+8,KOR,13,9,10,32,2024,South Korea
+9,ITA,12,13,15,40,2024,Italy
+10,GER,12,13,8,33,2024,Germany
+11,NZL,10,7,3,20,2024,New Zealand
+12,CAN,9,7,11,27,2024,Canada
+13,UZB,8,2,3,13,2024,Uzbekistan
+14,HUN,6,7,6,19,2024,Hungary
+15,ESP,5,4,9,18,2024,Spain
+16,SWE,4,4,3,11,2024,Sweden
+17,KEN,4,2,5,11,2024,Kenya
+18,NOR,4,1,3,8,2024,Norway
+19,IRL,4,0,3,7,2024,Ireland
+20,BRA,3,7,10,20,2024,Brazil
+21,IRI,3,6,3,12,2024,Iran
+22,UKR,3,5,4,12,2024,Ukraine
+23,ROU,3,4,2,9,2024,Romania
+24,GEO,3,3,1,7,2024,Georgia
+25,BEL,3,1,6,10,2024,Belgium
+26,BUL,3,1,3,7,2024,Bulgaria
+27,SRB,3,1,1,5,2024,Serbia
+28,CZE,3,0,2,5,2024,Czech Republic
+29,DEN,2,2,5,9,2024,Denmark
+30,AZE,2,2,3,7,2024,Azerbaijan
+30,CRO,2,2,3,7,2024,Croatia
+32,CUB,2,1,6,9,2024,Cuba
+33,BRN,2,1,1,4,2024,Bahrain
+34,SLO,2,1,0,3,2024,Slovenia
+35,TPE,2,0,5,7,2024,Chinese Taipei
+36,AUT,2,0,3,5,2024,Austria
+37,HKG,2,0,2,4,2024,Hong Kong
+37,PHI,2,0,2,4,2024,Philippines
+39,ALG,2,0,1,3,2024,Algeria
+39,INA,2,0,1,3,2024,Indonesia
+41,ISR,1,5,1,7,2024,Israel
+42,POL,1,4,5,10,2024,Poland
+43,KAZ,1,3,3,7,2024,Kazakhstan
+44,JAM,1,3,2,6,2024,Jamaica
+44,RSA,1,3,2,6,2024,South Africa
+44,THA,1,3,2,6,2024,Thailand
+47,ETH,1,3,0,4,2024,Ethiopia
+48,SUI,1,2,5,8,2024,Switzerland
+49,ECU,1,2,2,5,2024,Ecuador
+50,POR,1,2,1,4,2024,Portugal
+51,GRE,1,1,6,8,2024,Greece
+52,ARG,1,1,1,3,2024,Argentina
+52,EGY,1,1,1,3,2024,Egypt
+52,TUN,1,1,1,3,2024,Tunisia
+55,BOT,1,1,0,2,2024,Botswana
+55,CHI,1,1,0,2,2024,Chile
+55,LCA,1,1,0,2,2024,Saint Lucia
+55,UGA,1,1,0,2,2024,Uganda
+59,DOM,1,0,2,3,2024,Dominican Republic
+60,GUA,1,0,1,2,2024,Guatemala
+60,MAR,1,0,1,2,2024,Morocco
+62,DMA,1,0,0,1,2024,Dominica
+62,PAK,1,0,0,1,2024,Pakistan
+64,TUR,0,3,5,8,2024,Turkey
+65,MEX,0,3,2,5,2024,Mexico
+66,ARM,0,3,1,4,2024,Armenia
+66,COL,0,3,1,4,2024,Colombia
+68,KGZ,0,2,4,6,2024,Kyrgyzstan
+68,PRK,0,2,4,6,2024,North Korea
+70,LTU,0,2,2,4,2024,Lithuania
+71,IND,0,1,5,6,2024,India
+72,MDA,0,1,3,4,2024,Moldova
+73,KOS,0,1,1,2,2024,Kosovo
+74,CYP,0,1,0,1,2024,Cyprus
+74,FIJ,0,1,0,1,2024,Fiji
+74,JOR,0,1,0,1,2024,Jordan
+74,MGL,0,1,0,1,2024,Mongolia
+74,PAN,0,1,0,1,2024,Panama
+79,TJK,0,0,3,3,2024,Tajikistan
+80,ALB,0,0,2,2,2024,Albania
+80,GRN,0,0,2,2,2024,Grenada
+80,MAS,0,0,2,2,2024,Malaysia
+80,PUR,0,0,2,2,2024,Puerto Rico
+84,Cabo Verde,0,0,1,1,2024,Cabo Verde
+84,Ivory Coast,0,0,1,1,2024,Ivory Coast
+84,PER,0,0,1,1,2024,Peru
+84,QAT,0,0,1,1,2024,Qatar
+84,EOR,0,0,1,1,2024,Refugee Olympic Team
+84,SGP,0,0,1,1,2024,Singapore
+84,SVK,0,0,1,1,2024,Slovakia
+84,ZAM,0,0,1,1,2024,Zambia

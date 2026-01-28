@@ -1,0 +1,7 @@
+Issue,Severity,Status,Action_Required
+"1. Medal列""No medal""值",低 (Low),Understood - Keep or convert to NaN,决定是否转换为NaN
+2. NOC代码不一致 ⚠️,高 (High),Critical - Need standardization,必须标准化NOC代码
+3. 年份一致性,中 (Medium),Check if consistent,验证年份一致性
+4. Programs缺失值,低 (Low),Normal - Means not held,填充为0或保持NaN
+5. Dictionary格式问题,低 (Low),Can ignore or clean,删除Unnamed列
+6. Team列数字后缀,低 (Low),Normal - Team numbering,理解即可，无需处理
