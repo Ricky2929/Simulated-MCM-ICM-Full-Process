@@ -1,0 +1,15 @@
+Gold_lag1
+Gold_lag2
+Gold_lag3
+Gold_rolling_mean_3
+Gold_rolling_mean_5
+Gold_rolling_std_3
+Gold_growth_rate
+Gold_change
+is_host
+Total_Events
+Market_Share_Gold
+olympic_experience
+gold_percentile
+Gold_host_boost
+Num_Athletes
